@@ -9,6 +9,8 @@ Trades are not with real onchain currency and is only for testing.
 
 ### Dependencies
 * Requires Node.js
+* Requires Express.js
+* Requires NPM package manager
 
 ### Node Version
 Tested with v20.12.2
@@ -16,6 +18,8 @@ Tested with v20.12.2
 ## Installing
 * Before running locally, make sure to navigate to the api folder duplicate `.env_sample` to a new file called `.env`, and update its values to a valid MORALIS API key.
 * Get your free key here https://docs.moralis.io/web3-data-api/evm/reference/price-api
+* Make sure Node.js is installed on host machine https://nodejs.org/en
+* Make sure Express.js is installed on host machine https://expressjs.com/
   
 ## Executing program
 * Update `.env` file with a valid api key
