@@ -15,6 +15,9 @@ Trades are not with real onchain currency and is only for testing.
 ### Node Version
 Tested with v20.12.2
 
+## Live Demo
+https://www.loom.com/share/4a2bb007bee24e33b759ae27e024e559?sid=fb8cda87-57e5-424e-a415-d11940e4c4e7
+
 ## Installing
 * Before running locally, make sure to navigate to the api folder duplicate `.env_sample` to a new file called `.env`, and update its values to a valid MORALIS API key.
 * Get your free key here https://docs.moralis.io/web3-data-api/evm/reference/price-api
